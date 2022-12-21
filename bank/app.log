@@ -1,0 +1,5 @@
+2022-12-21 17:57:22,048 django.utils.autoreload INFO     F:\pythonProject1\bank\first\views.py changed, reloading.
+2022-12-21 17:57:22,568 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2022-12-21 17:57:30,705 first.views  INFO     Request : <WSGIRequest: GET '/test?date=2022-12-14'>.Response: успешно!
+2022-12-21 18:02:49,028 first.views  INFO     Request : <WSGIRequest: GET '/test?date=2022-12-14'>.Response: успешно!
+2022-12-21 18:03:08,241 second.views INFO     Request : <WSGIRequest: GET '/test2/328/2022-12-14'>.Response: {'Cur_ID': 328, 'Date': '2022-12-14T00:00:00', 'Cur_Abbreviation': 'MAD', 'Cur_Scale': 10, 'Cur_Name': 'Марокканских дирхамов', 'Cur_OfficialRate': 2.2738, 'Разница': 'Курс не изменился'}
